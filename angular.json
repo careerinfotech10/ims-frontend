@@ -120,5 +120,8 @@
         }
       }
     }},
-  "defaultProject": "ims-ui"
+  "defaultProject": "ims-ui",
+  "cli": {
+    "analytics": "44d83ee2-d633-4cbb-8eff-f12b7fdd9473"
+  }
 }
